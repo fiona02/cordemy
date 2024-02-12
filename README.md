@@ -34,7 +34,7 @@ Cordemy offers an extensive library of diverse courses across various subjects a
 
 To install and run the Cordemy project locally, follow these steps:
 
-1. Clone the repository:  git clone https://github.com/kajal-rekha/cordemy.git
+1. Clone the repository:  git clone https://github.com/fiona02/cordemy.git
 
 2. Navigate to the project directory:  `cd cordemy`
 
